@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gener8s on Gener8</title>
+    <link>http://localhost:1313/gener8/</link>
+    <description>Recent content in Gener8s on Gener8</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/gener8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gener8</title>
+      <link>http://localhost:1313/gener8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gener8/</guid>
+      <description>
+
+&lt;p&gt;&lt;img class=&#34;gener8Logo&#34; src=&#34;../images/gener8-logo.png&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;it-building-blocks:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;IT Building Blocks&lt;/h3&gt;
+
+&lt;p&gt;Gener8 are building blocks to instantly provide IT infrastructure capacity. Combining and stacking the building blocks provide you with scale-out capability for storage, compute and desktop capacity. Gener8 can also be used as stand-alone IT system in a hyperdense, silent and power-saving form factor.&lt;/p&gt;
+
+&lt;h3 id=&#34;gener8-pb:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Gener8-PB&lt;/h3&gt;
+
+&lt;p&gt;This building block generates 1.5 petabyte of storage in only 1 meter. This compares to capacity needed for 350,000 DVD movies, 500,000,000 high definition pictures and thousands of hours surveillance camera storage.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Petabyte archive building block, no limits to scalability&lt;/li&gt;
+&lt;li&gt;Power-friendly, comparable with energy for 2 toasters&lt;/li&gt;
+&lt;li&gt;Self-healing and regenarating storage&lt;/li&gt;
+&lt;li&gt;Simplified interfaces, standard fileserver&lt;/li&gt;
+&lt;li&gt;Digital preservation is possible for 30+ years&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;technical:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Technical&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1.5 PB&lt;/li&gt;
+&lt;li&gt;NAS &amp;amp; SAN Interface&lt;/li&gt;
+&lt;li&gt;56 Gbit/sec ethernet&lt;/li&gt;
+&lt;li&gt;2.000 MB/sec ingest speed&lt;/li&gt;
+&lt;li&gt;1.000.000 IOPs (IO Operations Per Second)&lt;/li&gt;
+&lt;li&gt;Height of building block is 140cm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;gener8-hc:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Gener8-HC&lt;/h3&gt;
+
+&lt;p&gt;The hyperconverged building block has both storage and compute capacity for heavy production workloads. It can handle most applications available in the world. One generator is only 1 meter high and can run 500 virtual machines or 2500 workspaces.&lt;/p&gt;
+
+&lt;h4 id=&#34;technical-1:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Technical&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1980 net usable GB memory&lt;/li&gt;
+&lt;li&gt;288 logical CPU cores&lt;/li&gt;
+&lt;li&gt;180 TB Ultra High Performance Embedded SAN Capacity&lt;/li&gt;
+&lt;li&gt;56 gbit/sec internal network backplane&lt;/li&gt;
+&lt;li&gt;1.000.000 IOPs (IO Operations Per Second)&lt;/li&gt;
+&lt;li&gt;Height of building block is 140cm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;gener8-hd:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Gener8-HD&lt;/h3&gt;
+
+&lt;p&gt;Standalone hyperdense IT system. Office form factor. Release in Q4 of 2015.&lt;/p&gt;
+
+&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
+.gener8Logo {margin: -15px 0 0 0;}
+    .title { display: none;}
+    .separator-2 { display: none;}
+    .separator-2 + p { display: none;}
+&lt;/style&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

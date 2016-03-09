@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gener8</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Gener8</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gener8</title>
+      <link>http://localhost:1313/gener8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/gener8/</guid>
+      <description>
+
+&lt;p&gt;&lt;img class=&#34;gener8Logo&#34; src=&#34;./images/gener8-logo.png&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;it-building-blocks:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;IT Building Blocks&lt;/h3&gt;
+
+&lt;p&gt;Gener8 are building blocks to instantly provide IT infrastructure capacity. Combining and stacking the building blocks provide you with scale-out capability for storage, compute and desktop capacity. Gener8 can also be used as stand-alone IT system in a hyperdense, silent and power-saving form factor.&lt;/p&gt;
+
+&lt;h3 id=&#34;gener8-pb:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Gener8-PB&lt;/h3&gt;
+
+&lt;p&gt;This building block generates 1.5 petabyte of storage in only 1 meter. This compares to capacity needed for 350,000 DVD movies, 500,000,000 high definition pictures and thousands of hours surveillance camera storage.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Petabyte archive building block, no limits to scalability&lt;/li&gt;
+&lt;li&gt;Power-friendly, comparable with energy for 2 toasters&lt;/li&gt;
+&lt;li&gt;Self-healing and regenarating storage&lt;/li&gt;
+&lt;li&gt;Simplified interfaces, standard fileserver&lt;/li&gt;
+&lt;li&gt;Digital preservation is possible for 30+ years&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;technical:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Technical&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1.5 PB&lt;/li&gt;
+&lt;li&gt;NAS &amp;amp; SAN Interface&lt;/li&gt;
+&lt;li&gt;56 Gbit/sec ethernet&lt;/li&gt;
+&lt;li&gt;2.000 MB/sec ingest speed&lt;/li&gt;
+&lt;li&gt;1.000.000 IOPs (IO Operations Per Second)&lt;/li&gt;
+&lt;li&gt;Height of building block is 140cm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;gener8-hc:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Gener8-HC&lt;/h3&gt;
+
+&lt;p&gt;The hyperconverged building block has both storage and compute capacity for heavy production workloads. It can handle most applications available in the world. One generator is only 1 meter high and can run 500 virtual machines or 2500 workspaces.&lt;/p&gt;
+
+&lt;h4 id=&#34;technical-1:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Technical&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1980 net usable GB memory&lt;/li&gt;
+&lt;li&gt;288 logical CPU cores&lt;/li&gt;
+&lt;li&gt;180 TB Ultra High Performance Embedded SAN Capacity&lt;/li&gt;
+&lt;li&gt;56 gbit/sec internal network backplane&lt;/li&gt;
+&lt;li&gt;1.000.000 IOPs (IO Operations Per Second)&lt;/li&gt;
+&lt;li&gt;Height of building block is 140cm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;gener8-hd:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Gener8-HD&lt;/h3&gt;
+
+&lt;p&gt;Standalone hyperdense IT system. Office form factor. Release in Q4 of 2015.&lt;/p&gt;
+
+&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
+.gener8Logo {margin: -15px 0 0 0;}
+    .title { display: none;}
+    .separator-2 { display: none;}
+    .separator-2 + p { display: none;}
+&lt;/style&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contactus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contactus/</guid>
+      <description>
+
+&lt;h3 id=&#34;europe:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Europe&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:europe@greenitglobe.com&#34;&gt;europe@greenitglobe.com&lt;/a&gt;&lt;br /&gt;
+Call Belgium +32499504050&lt;br /&gt;
+Call Vienna +436643001917&lt;br /&gt;
+Call Rotterdam +31611615262&lt;/p&gt;
+
+&lt;div class=&#34;caption background-white&#34;&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2505.869058630841!2d3.8203244!3d51.092424!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c377c098522c81%3A0x4bda55913dea76a!2sAntwerpse+Steenweg+19%2C+9080+Lochristi%2C+Belgium!5e0!3m2!1sen!2sae!4v1439990827818&#34; style=&#34;border:0;width: 100%; height: 400px&#34;&gt;&lt;/iframe&gt;
+                
+&lt;/div&gt; 
+
+&lt;h3 id=&#34;mena:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;MENA&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:mena@greenitglobe.com&#34;&gt;mena@greenitglobe.com&lt;/a&gt;&lt;br /&gt;
+Call Dubai +971525609018&lt;br /&gt;
+Call Cairo +20224174744&lt;/p&gt;
+
+&lt;div class=&#34;caption background-white&#34;&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3609.7403913220564!2d55.3358774!3d25.211976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f67f54f39b219%3A0x4e943cb251b3605f!2sMidworldPro+Warehouse!5e0!3m2!1sen!2sae!4v1439992123027&#34; style=&#34;border:0;width: 100%; height: 400px&#34;&gt;&lt;/iframe&gt;
+                
+&lt;/div&gt; 
+
+&lt;h3 id=&#34;russia:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Russia&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:russia@greenitglobe.com&#34;&gt;russia@greenitglobe.com&lt;/a&gt;&lt;br /&gt;
+Call Moskow +79104048886&lt;/p&gt;
+
+&lt;h3 id=&#34;south-africa:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;South Africa&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:safrica@greenitglobe.com&#34;&gt;safrica@greenitglobe.com&lt;/a&gt;
++2761 453 6834&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>aboutus_box</title>
+      <link>http://localhost:1313/home/aboutus_box/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/aboutus_box/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>header</title>
+      <link>http://localhost:1313/home/header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/header/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>product</title>
+      <link>http://localhost:1313/home/product/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>footer_box</title>
+      <link>http://localhost:1313/home/footer_box/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/footer_box/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud4Edge Big Data</title>
+      <link>http://localhost:1313/internal-page</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/internal-page</guid>
+      <description>
+
+&lt;p&gt;&lt;img class=&#34;gener8Logo&#34; src=&#34;https://2.bp.blogspot.com/-cSlpp5YuB-I/VscLe3MlZkI/AAAAAAAAC24/uoCWtk7JkxY/s400/Cloud4edge%2Bbig%2Bdata.1.png&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;technology-highlights:98e9d5f5d3dd352bd6badb8c9b297f3d&#34;&gt;Technology Highlights&lt;/h3&gt;
+
+&lt;p&gt;Capture and crunch data, without limits and performance loss driven by big data analytics and data archives.
+Centralisation is blocking, so big data is very captive and requires the edge cloud capabilities more than others.&lt;/p&gt;
+
+&lt;h4 id=&#34;your-customers-can-buy:98e9d5f5d3dd352bd6badb8c9b297f3d&#34;&gt;Your customers can buy:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;archive capacity = storage&lt;/li&gt;
+&lt;li&gt;processing capacity = compute&lt;/li&gt;
+&lt;li&gt;licensing = depending technology selection&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;you-provide-services:98e9d5f5d3dd352bd6badb8c9b297f3d&#34;&gt;You provide services:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Geoscale Hadoop platform upto 100TB&lt;/li&gt;
+&lt;li&gt;Geoscale statistics database&lt;/li&gt;
+&lt;li&gt;Geoscale keyvalue stor&lt;/li&gt;
+&lt;li&gt;Geoscale noSQL database&lt;/li&gt;
+&lt;li&gt;Geoscale mySQL database&lt;/li&gt;
+&lt;li&gt;Geoscale full text search&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;available-alpha:98e9d5f5d3dd352bd6badb8c9b297f3d&#34;&gt;Available: Alpha&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>intro_slider_box</title>
+      <link>http://localhost:1313/home/intro_slider_box/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/intro_slider_box/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>second_section</title>
+      <link>http://localhost:1313/home/second_section/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/second_section/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solution_section</title>
+      <link>http://localhost:1313/home/solution_section/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/solution_section/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

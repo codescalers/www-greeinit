@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contactus on Gener8</title>
+    <link>http://localhost:1313/contactus/</link>
+    <description>Recent content in Contactus on Gener8</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/contactus/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contactus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contactus/</guid>
+      <description>
+
+&lt;h3 id=&#34;europe:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Europe&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:europe@greenitglobe.com&#34;&gt;europe@greenitglobe.com&lt;/a&gt;&lt;br /&gt;
+Call Belgium +32499504050&lt;br /&gt;
+Call Vienna +436643001917&lt;br /&gt;
+Call Rotterdam +31611615262&lt;/p&gt;
+
+&lt;div class=&#34;caption background-white&#34;&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2505.869058630841!2d3.8203244!3d51.092424!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c377c098522c81%3A0x4bda55913dea76a!2sAntwerpse+Steenweg+19%2C+9080+Lochristi%2C+Belgium!5e0!3m2!1sen!2sae!4v1439990827818&#34; style=&#34;border:0;width: 100%; height: 400px&#34;&gt;&lt;/iframe&gt;
+                
+&lt;/div&gt; 
+
+&lt;h3 id=&#34;mena:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;MENA&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:mena@greenitglobe.com&#34;&gt;mena@greenitglobe.com&lt;/a&gt;&lt;br /&gt;
+Call Dubai +971525609018&lt;br /&gt;
+Call Cairo +20224174744&lt;/p&gt;
+
+&lt;div class=&#34;caption background-white&#34;&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3609.7403913220564!2d55.3358774!3d25.211976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f67f54f39b219%3A0x4e943cb251b3605f!2sMidworldPro+Warehouse!5e0!3m2!1sen!2sae!4v1439992123027&#34; style=&#34;border:0;width: 100%; height: 400px&#34;&gt;&lt;/iframe&gt;
+                
+&lt;/div&gt; 
+
+&lt;h3 id=&#34;russia:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Russia&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:russia@greenitglobe.com&#34;&gt;russia@greenitglobe.com&lt;/a&gt;&lt;br /&gt;
+Call Moskow +79104048886&lt;/p&gt;
+
+&lt;h3 id=&#34;south-africa:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;South Africa&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:safrica@greenitglobe.com&#34;&gt;safrica@greenitglobe.com&lt;/a&gt;
++2761 453 6834&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
