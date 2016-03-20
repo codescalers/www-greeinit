@@ -9,40 +9,14 @@
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Cloud4Edge Big Data</title>
-      <link>http://localhost:1313/internal-page</link>
+      <title>Test</title>
+      <link>http://localhost:1313/test</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/internal-page</guid>
+      <guid>http://localhost:1313/test</guid>
       <description>
 
-&lt;p&gt;&lt;img class=&#34;gener8Logo&#34; src=&#34;https://2.bp.blogspot.com/-cSlpp5YuB-I/VscLe3MlZkI/AAAAAAAAC24/uoCWtk7JkxY/s400/Cloud4edge%2Bbig%2Bdata.1.png&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;technology-highlights:98e9d5f5d3dd352bd6badb8c9b297f3d&#34;&gt;Technology Highlights&lt;/h3&gt;
-
-&lt;p&gt;Capture and crunch data, without limits and performance loss driven by big data analytics and data archives.
-Centralisation is blocking, so big data is very captive and requires the edge cloud capabilities more than others.&lt;/p&gt;
-
-&lt;h4 id=&#34;your-customers-can-buy:98e9d5f5d3dd352bd6badb8c9b297f3d&#34;&gt;Your customers can buy:&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;archive capacity = storage&lt;/li&gt;
-&lt;li&gt;processing capacity = compute&lt;/li&gt;
-&lt;li&gt;licensing = depending technology selection&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;you-provide-services:98e9d5f5d3dd352bd6badb8c9b297f3d&#34;&gt;You provide services:&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Geoscale Hadoop platform upto 100TB&lt;/li&gt;
-&lt;li&gt;Geoscale statistics database&lt;/li&gt;
-&lt;li&gt;Geoscale keyvalue stor&lt;/li&gt;
-&lt;li&gt;Geoscale noSQL database&lt;/li&gt;
-&lt;li&gt;Geoscale mySQL database&lt;/li&gt;
-&lt;li&gt;Geoscale full text search&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;available-alpha:98e9d5f5d3dd352bd6badb8c9b297f3d&#34;&gt;Available: Alpha&lt;/h4&gt;
+&lt;h3 id=&#34;test-internal:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;Test internal&lt;/h3&gt;
 </description>
     </item>
     

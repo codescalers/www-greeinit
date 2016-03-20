@@ -1,0 +1,12 @@
+http://greenit.aydo.com:8999 {
+    bind 0.0.0.0
+    gzip
+    root www.greenit.com
+    git {
+       repo git@github.com:codescalers/www-greeinit.git
+       interval 300
+       key ../keys/id_rsa
+       path ../
+       then hugo -s www.greenit.com
+    }
+}

@@ -7,10 +7,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/contactus/</loc>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/home/aboutus_box/</loc>
   </url>
   
@@ -19,27 +15,23 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/home/product/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/gener8/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/internal-page</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/home/solution_section/</loc>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/home/footer_box/</loc>
   </url>
   
   <url>
+    <loc>http://localhost:1313/home/product/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/test</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/home/intro_slider_box/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/home/solution_section/</loc>
   </url>
   
 </urlset>

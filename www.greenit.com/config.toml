@@ -1,6 +1,6 @@
 baseurl = "/"
 LanguageCode = "en"
-title = "Gener8"
+title = "GreenIT"
 theme = "landing"
 contentdir = "content"
 staticdir = "static"

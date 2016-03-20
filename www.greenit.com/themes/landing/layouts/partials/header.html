@@ -1,9 +1,9 @@
 
       {{ range $element :=  $.Site.Pages }}
   {{ if eq .Section "home" }}
-      {{ if eq .Title "header" }}  
-      
-      
+      {{ if eq .Title "header" }}
+
+
       <section class="nav-block">
        <nav class="nav-top navbar hnav hnav-sm invert-colors bcolor-bg" role="navigation">
 
@@ -18,7 +18,7 @@
               <ul class="nav navbar-nav navbar-right">
                 <li class="hidden-xs"><a href="#">follow us</a></li>
                 <li><a href="{{.Params.facebook_link}}"><i class="fa fa-facebook"></i></a></li>
-                
+
                 <li><a href="{{.Params.twitter_link}}"><i class="fa fa-twitter"></i></a></li>
               </ul>
 
@@ -37,9 +37,9 @@
                 <span class="sr-only">Toggle navigation</span>
                 <i class="ti ti-menu"></i>
               </button>
-              <a class="navbar-brand" href="index.html">
-                <img class="hidden-xs" src="{{.Params.logo_img}}" alt="" /> 
-                <img class="visible-xs" src="{{.Params.logo_large_img}}" alt="" /> 
+              <a class="navbar-brand" href="/">
+                <img class="hidden-xs" src="{{.Params.logo_img}}" alt="" />
+                <img class="visible-xs" src="{{.Params.logo_large_img}}" alt="" />
               </a>
             </div>
 
@@ -50,20 +50,20 @@
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Shop<i class="fa fa-angle-down toggler visible-xs"></i></a>
                   <ul class="dropdown-menu">
-                    <li><a href="/internal-page">Internal-page</a></li>                    
+                    <li><a href="/internal-page">Internal-page</a></li>
                   </ul>
                 </li>
                 <li><a href="index.html">Product</a></li>
                 <li><a href="index.html">Contact us</a></li>
 
               </ul>
-              
+
             </div>
-            
-          </div>                              
-        </nav>                        
+
+          </div>
+        </nav>
       </section>
-      
+
       {{end}}
         {{end}}
       {{end}}
