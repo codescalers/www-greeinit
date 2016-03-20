@@ -1,4 +1,4 @@
-http://greenit.aydo.com:8999 {
+http://greenit.aydo.com:8337 {
     bind 0.0.0.0
     gzip
     root www.greenit.com
