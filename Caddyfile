@@ -1,12 +1,12 @@
 http://greenit.aydo.com:8337 {
     bind 0.0.0.0
     gzip
-    root www.greenit.com
+    root www.greenit.com/en
     git {
        repo git@github.com:codescalers/www-greenit.git
        interval 300
        key ../keys/id_rsa
-       path ../
+       path ../..
        then hugo -s www.greenit.com
     }
 }
