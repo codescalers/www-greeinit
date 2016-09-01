@@ -2,40 +2,20 @@
 #Don't remove title!
 title = "intro_slider_box"
 
+slider1_title1 = "Welcome to CodeScalers"
+slider1_title2 = "International Software Development"
+slider1_title3 = "Specialised in Cloud Computing Projects"
+slider1_title4 = "Offices in Cairo and El Gouna"
 
-slide1_title_main_button = "multipurpose"
-slide1_title_small = "multipurpose"
-slide1_title_large= "modular design"
-slide1_text = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud."
-slide1_button = "learn more"
-slide1_more_link = "#"
-slide1_pic = "/images/screen-4.png" 
+slider2_title1 = "Changing the way to deliver IT"
+slider2_title2 = "We rechallenge existing technologies"
+slider2_title3 = "We try to solve the root cause of issues"
+slider2_title4 = "We have our own software automation tools"
 
-
-slide2_title_main_button = "multipurpose"
-slide2_title_small = "multipurpose"
-slide2_title_large= "modular design"
-slide2_text = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud."
-slide2_button = "learn more"
-slide2_more_link = "#"
-slide2_pic = "/images/screen-4.png" 
-
-slide3_title_main_button = "multipurpose"
-slide3_title_small = "multipurpose"
-slide3_title_large= "modular design"
-slide3_text = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud."
-slide3_button = "learn more"
-slide3_more_link = "#"
-slide3_pic = "/images/screen-4.png" 
-
-
-slide4_title_main_button = "multipurpose"
-slide4_title_small = "multipurpose"
-slide4_title_large= "modular design"
-slide4_text = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud."
-slide4_button = "learn more"
-slide4_more_link = "#"
-slide4_pic = "/images/screen-4.png" 
+slider3_title1 = "Join us"
+slider3_title2 = "We are always looking for talented engineers"
+slider3_title3 = "System administrators and developers"
+slider3_title4 = "Working for international customers"
 
 
 +++
