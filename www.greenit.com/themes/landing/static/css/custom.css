@@ -166,9 +166,9 @@ footer .col-md-5 + .row { width: 100%; }
 .panel-title { font-size: 15px; }
 .panel-title a:hover { text-decoration: none; }
 .panel-title>a { padding: 12px 15px 12px 27px; display: block; color: #2e2e2e; }
-.panel-default>.panel-heading.active { background: url(../images/arrow-open.png) #3498db no-repeat 9px 17px; }
+.panel-default>.panel-heading.active { background: url(../images/arrow-open.png) #84b038 no-repeat 9px 17px; }
 .panel-default>.panel-heading.active .panel-title>a { color: #FFF; }
-.c3u h5 { font-size: 15px; font-weight: bold; color: #3498db; margin: 0 0 15px 0; }
+.c3u h5 { font-size: 15px; font-weight: bold; color: #84b038; margin: 0 0 15px 0; }
 .social1 { margin: 8px 10px 0 0; float: left; }
 .paddingR35 { padding-right: 35px; }
 html {position: relative;min-height: 100%;}

@@ -8,7 +8,7 @@ box1_disc = "Our dream has been focused on building and operating the perfect da
 
 box2_icon = "group"
 box2_title = "The Team"
-box2_disc = "CodeScalers is run by A team of datacenter experts that has helped build over a dozen largescale data centers during the past two decades. The team has also developed cloud software companies, datacenter software as well as highend and mid market hosting companies. From that experience, we learnt that significant improvements for a cloud solution can only be achieved when the entire cloud ecosystem is looked at including Datacenter, Power Management, Physical infrastructure, Management Platform, User Interfaces."
+box2_disc = "Green IT is run by A team of datacenter experts that has helped build over a dozen largescale data centers during the past two decades. The team has also developed cloud software companies, datacenter software as well as highend and mid market hosting companies. From that experience, we learnt that significant improvements for a cloud solution can only be achieved when the entire cloud ecosystem is looked at including Datacenter, Power Management, Physical infrastructure, Management Platform, User Interfaces."
 
 box3_icon = "cogs"
 box3_title = "Cloud Computing"

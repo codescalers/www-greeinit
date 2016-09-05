@@ -2,7 +2,7 @@
 #Don't remove title!
 title = "intro_slider_box"
 
-slider1_title1 = "Welcome to CodeScalers"
+slider1_title1 = "Welcome to Green IT"
 slider1_title2 = "International Software Development"
 slider1_title3 = "Specialised in Cloud Computing Projects"
 slider1_title4 = "Offices in Cairo and El Gouna"

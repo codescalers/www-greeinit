@@ -56,7 +56,7 @@
   font-size: 70px;
   font-weight: 200;
   text-shadow: 1px 1px 0 #000000;
-  background: #217dbb;
+  background: #4d4d4d;
   padding: 0 10px 5px 10px;
   border-radius: 6px;
   line-height: 1.3em;
@@ -352,21 +352,21 @@ a,
 }
 a:hover,
 .btn-link:hover {
-  color: #1d6fa5;
+  color: #65901b;
 }
 .btn {
   -webkit-transition: background 0.3s;
   transition: background 0.3s;
 }
 .btn-lead {
-  background-color: #3498db;
+  background-color: #84b038;
   color: #fff;
-  border: 1px #258cd1 solid;
+  border: 1px #84b038 solid;
 }
 .btn-lead:hover {
-  background-color: #217dbb;
+  background-color: #5b7d1f;
   color: #fff;
-  border: 1px #1d6fa5 solid;
+  border: 1px #5b7d1f solid;
 }
 section,
 footer {
@@ -412,7 +412,7 @@ section h1,
 footer h1 {
   display: inline-block;
   margin: 0 0 20px 0;
-  border-bottom: 2px #3498db solid;
+  border-bottom: 2px #84b038 solid;
 }
 section h1.no-border,
 footer h1.no-border {
@@ -560,7 +560,7 @@ h3 {
 ;
 }
 .navbar .nav.navbar-nav > li.active > a {
-  background: #3498db;
+  background: #4d4d4d;
   color: #fff;
   /*&:after {
 						content: "";
@@ -1005,7 +1005,7 @@ footer h1,
 footer h2,
 footer h3 {
   margin-top: 0;
-  border-bottom: 1px #3498db solid;
+  border-bottom: 1px #84b038 solid;
   padding-bottom: 3px;
 }
 footer .nav-footer {
@@ -1040,7 +1040,7 @@ footer .author:before {
 }
 footer hr {
   border-top: 0;
-  border-bottom: 1px #3498db solid;
+  border-bottom: 1px #84b038 solid;
   margin-top: 10px;
   margin-bottom: 10px;
   clear: both;
@@ -1086,7 +1086,7 @@ footer hr {
   background-color: #3498db;
 }
 .background-lead-light {
-  background-color: #5faee3;
+  background-color: #84b038;
 }
 .background-lead-dark {
   background-color: #217dbb;
@@ -1169,7 +1169,7 @@ footer hr {
   color: #000;
 }
 .color-lead {
-  color: #3498db;
+  color: #84b038;
 }
 .color-lead-light {
   color: #5faee3;
