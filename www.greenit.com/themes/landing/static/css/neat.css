@@ -82,9 +82,6 @@
   }
 }
 @media (max-width: 480px) {
-  .responsive-slider-parallax .slides-container{
-    background-position-y: -230px !important;
-  }
   .responsive-slider-parallax .slides-container ul li .slide-body .caption.header h2 {
     font-size: 20px;
   }
@@ -1305,6 +1302,11 @@ footer hr {
   }
   .blog-entry img.media-object {
     max-width: 50px;
+  }
+}
+@media (max-width: 480px) {
+  .responsive-slider-parallax .slides-container{
+    background-position-y: -230px !important;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
