@@ -1,1 +1,1 @@
-# GreenIT website
+# GreenIT website (staging)
